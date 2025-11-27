@@ -1,3 +1,8 @@
+![Downloads](https://img.shields.io/github/downloads/odeviceblack/SmartSave-AMLMod/total.svg)
+![Latest Tag](https://img.shields.io/github/v/tag/odeviceblack/SmartSave-AMLMod)
+![armeabi-v7a](https://img.shields.io/badge/armeabi--v7a-available-brightgreen)
+![arm64-v8a](https://img.shields.io/badge/arm64--v8a-available-brightgreen)
+
 # **SmartSave – Automatic Save Mod**
 
 **SmartSave** is a lightweight enhancement for **GTA: San Andreas Mobile (Android)** designed to protect player progress by introducing a fully automatic save system.
