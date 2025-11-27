@@ -8,6 +8,7 @@
 **SmartSave** is a lightweight enhancement for **GTA: San Andreas Mobile (Android)** designed to protect player progress by introducing a fully automatic save system.
 Its purpose is simple: *make the game safer, smoother, and more convenient*, without changing gameplay or requiring manual interaction.
 
+![Screenshot1](media/screenshot1.jpg)
 ---
 
 ## **📌 What SmartSave Does**
